@@ -1,15 +1,3 @@
-// let array = 53;
-// let sum =0;
-// while(array>0){
-//     let num = array%10;
-//     sum = sum + num;
-//     array = parseInt(array/10);
-// }
-// console.log(sum);
-
-
-
-
 function phonebook(Name, contact, address, email){
     return{
 
@@ -64,10 +52,8 @@ function addContact(name, phoneNumber, email) {
  deleteContact("Mahima");
  searchContact("Mahima");
 
-addContact("Sushmita","5687698675675","gliuhyfy");
-updateContact("Sushmita", "598367983709","jhhgoehg");
-deleteContact("Sushmita");
-searchContact("Sushmita");
+
+
 
 
 
